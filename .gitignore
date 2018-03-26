@@ -1,2 +1,8 @@
 *.class
 *.log
+
+# CSV data #
+*.csv
+
+# Spark metasore_db #
+/spark_dataframes/metastore_db/
