@@ -5,4 +5,7 @@
 *.csv
 
 # Spark metasore_db #
-/spark_dataframes/metastore_db/
+*/metastore_db/
+
+# spark-warehouse #
+*/spark-warehouse/
